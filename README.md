@@ -80,3 +80,14 @@ Spring AI       → AI integration
 Spring Boot     → Makes the whole Spring application easier to build/run
 Spring Core     → IoC, DI, Beans, Container
 
+
+
+
+
+
+
+
+
+
+Build Your First Spring Boot Application | REST API | Spring Boot Full Course #2
+
