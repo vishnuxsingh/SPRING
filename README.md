@@ -88,6 +88,7 @@ Spring Core     → IoC, DI, Beans, Container
 
 
 
-
 Build Your First Spring Boot Application | REST API | Spring Boot Full Course #2
-
+REVERSE PROXY->mapping of ports 
+DNS-> domain naming system 
+start.spring.io
