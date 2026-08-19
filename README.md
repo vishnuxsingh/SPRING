@@ -104,3 +104,17 @@ Build Your First Spring Boot Application | REST API | Spring Boot Full Course #2
 REVERSE PROXY->mapping of ports 
 DNS-> domain naming system 
 start.spring.io
+
+
+tags in POM.xml ->>
+https://mvnrepository.com/ -> For getting any deoendencies.
+super pom -> parent of allpom
+effective pom -> which our project uses
+maven life cycle ->
+1. clean life cycle-> clean
+2. default lifecycle->validate,compile,test,package,verify,install,deploy
+3. sitelifecycle ->site
+
+   mvn clean install
+   for cleab and install depenencues
+   
