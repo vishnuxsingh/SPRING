@@ -81,6 +81,18 @@ Spring Boot     → Makes the whole Spring application easier to build/run
 Spring Core     → IoC, DI, Beans, Container
 
 
+Master Apache Maven in one video | POM, Dependencies & Lifecycle | Spring Boot Full Course #3
+JAR FILES -> JAVA Archives -> this is type of package which can have multiple .class files, Resources , Folders/Packages etc 
+a centralized storage.
+2. To use external Libraries (my-sql-connector.jar)
+MAVEN ->> it is kind of project management tool.
+   1. mantains folder structure
+   2. compile code
+   3. creates jar file
+   4. dependencies download
+pom.xml-> project object model
+
+
 
 
 
