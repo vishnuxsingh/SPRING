@@ -116,5 +116,6 @@ maven life cycle ->
 3. sitelifecycle ->site
 
    mvn clean install
-   for cleab and install depenencues
-   
+   for clean and install depenencues
+
+   lecture 4 # 
